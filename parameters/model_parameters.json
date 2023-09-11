@@ -1,0 +1,7 @@
+{
+  "mass_hip": 1.0,
+  "mass_legs": 0.5,
+  "length_a": 0.5,
+  "length_b": 0.5,
+  "gravity": 9.807
+}

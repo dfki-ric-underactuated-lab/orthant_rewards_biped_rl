@@ -1,0 +1,16 @@
+{
+  "reward_setup": {
+    "action_jerkiness": -0.001,
+    "fall": -10.0,
+    "final_distance_reached": 1.0,
+    "forward_velocity": 0.00,
+    "follow_orthant_sequence": 0.00
+  },
+  "algorithm": "PPO",
+  "controlled": ["hip", "ankle"],
+  "model_setup": [],
+  "init_state": [0.0, 0.0, -0.4, 2.0],
+  "init_state_rand_range": [0.0, 0.0, 0.0, 0.0],
+  "action_lim_min": [-2.0, -2.0],
+  "action_lim_max": [0.0, 0.0]
+}
