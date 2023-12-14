@@ -32,7 +32,7 @@ how to generate reward functions from symbolic AI and reasoning.
 
 ## Presentation
 
-![Presentation at Conference on Decision and Control 2023, Singapore](static/slides.pdf){width=720 height=405}
+![Presentation at the 62nd Conference on Decision and Control (CDC 2023), Singapore, 13.12.2023](static/slides.pdf){width=720 height=405}
 
 ## Video
 
