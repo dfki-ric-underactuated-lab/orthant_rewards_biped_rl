@@ -51,11 +51,13 @@ The source code for the work described in the paper can be found [here](https://
              L\"{u}th, Christoph and
              Gross, Lukas and
              Kumar, Shivesh and 
-             Kirchner, Frank Kirchner}
+             Kirchner, Frank}
   title =  { Deriving Rewards for Reinforcement Learning from Symbolic Behaviour Descriptions of Bipedal Walking},
-  booktitle = {To appear in 62nd {IEEE} Conference on Decision and Control, {CDC} 2023},
-  publisher = {{IEEE}},
-  year      = {2023}
+  booktitle = {62nd {IEEE} Conference on Decision and Control ({CDC})},
+  address   = {Marina Bay Sands, Singapore} 
+  pages     = {2135 -- 2140},
+  year      = {2023},
+  publisher = {{IEEE}}
 }
 ```
 
