@@ -18,3 +18,20 @@ Trained agents are saved automatically under `results/trained_agents/datetime`
 along with a copy of the used parameters for reproducibility.
 
 Paper Landing Webpage: https://dfki-ric-underactuated-lab.github.io/orthant_rewards_biped_rl/
+
+# Citation
+```bibtex
+@inproceedings{HLGKK23,
+  author = { Harnack,  Daniel and
+             L\"{u}th, Christoph and
+             Gross, Lukas and
+             Kumar, Shivesh and 
+             Kirchner, Frank}
+  title =  { Deriving Rewards for Reinforcement Learning from Symbolic Behaviour Descriptions of Bipedal Walking},
+  booktitle = {62nd {IEEE} Conference on Decision and Control ({CDC})},
+  address   = {Marina Bay Sands, Singapore} 
+  pages     = {2135 -- 2140},
+  year      = {2023},
+  publisher = {{IEEE}}
+}
+```
