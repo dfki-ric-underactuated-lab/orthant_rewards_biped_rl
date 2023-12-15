@@ -16,3 +16,5 @@ will then use this reward in the final sum of reward terms.
 
 Trained agents are saved automatically under `results/trained_agents/datetime` 
 along with a copy of the used parameters for reproducibility.
+
+Paper Landing Webpage: https://dfki-ric-underactuated-lab.github.io/orthant_rewards_biped_rl/
