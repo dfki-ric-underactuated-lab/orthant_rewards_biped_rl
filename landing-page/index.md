@@ -1,14 +1,13 @@
 ---
 title: Deriving Rewards for Reinforcement Learning from Symbolic Behaviour Descriptions of Bipedal Walking
 github: https://github.com/dfki-ric-underactuated-lab/orthant_rewards_biped_rl/
-pdf: 
+pdf: http://arxiv.org/abs/2312.10328
 authors:
   - {name: Daniel Harnack,  affiliation_key: 1}
   - {name: Christoph Lüth, affiliation_key: 1 2, link: http://www.informatik.uni-bremen.de/~clueth/}
   - {name: Lukas Gross,   affiliation_key: 1, link: https://robotik.dfki-bremen.de/de/ueber-uns/mitarbeiter/lugr02.html}
   - {name: Shivesh Kumar, affiliation_key: 1, link: https://robotik.dfki-bremen.de/de/ueber-uns/mitarbeiter/shku02.html}
   - {name: Frank Kirchner, affiliation_key: 1 2, link: https://robotik.dfki-bremen.de/de/ueber-uns/mitarbeiter/frki01.html}
-
 affiliations:
   - {name: German Research Center for Artificial Intelligence, affiliation_key: 1, link: https://www.dfki.de/ }
   - {name: University of Bremen, affiliation_key: 2, link: https://www.uni-bremen.de/}
